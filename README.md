@@ -1,5 +1,5 @@
 # FEBasic
-{Front End beginner cours}
+Front End beginner cours
 
 **Hello this is my first project**
 
